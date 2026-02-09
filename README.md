@@ -75,7 +75,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 * FAISS, Neo4j (Knowledge Graphs)  
 * FastAPI, Streamlit  
 * Scikit-learn, Pandas, NumPy  
-* OpenAI APIs  
+* APIs  
 
 ---
 
@@ -134,7 +134,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 **Problem Solving:**  
 - LeetCode: 40+ problems  
 - CodeChef: 50+ problems  
-- HackerRank: Silver (Python)
+- HackerRank: Python (Gold), Java (Gold), SQL (Silver) 
 
 ---
 
