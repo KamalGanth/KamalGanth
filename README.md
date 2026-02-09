@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm <strong>Kamalganth S</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Kamalganth S</strong> </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Undergraduate;AI+%26+Generative+AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLMs;Applied+NLP+%26+Intelligent+Systems;Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>🚀 AI & Gen-AI Engineer | Agentic AI | NLP | Open-Source Contributor</strong>
+  <strong> AI & Gen-AI Engineer | Agentic AI | NLP | Open-Source Contributor</strong>
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m **Kamalganth S**, a **B.Tech AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, focused on building **real-world, scalable, and explainable AI systems**.
 
 My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intelligent system design**, with strong emphasis on **end-to-end implementation** — from model reasoning to deployment.
 
-* 🔭 Building **agentic AI assistants & RAG-based systems**
-* 🧠 Working with **LLMs, knowledge graphs, and verification layers**
-* 🌍 Active **open-source contributor** in applied AI tooling
-* ⚡ Interested in automation, intelligent workflows, and AI products
+*  Building **agentic AI assistants & RAG-based systems**
+*  Working with **LLMs, knowledge graphs, and verification layers**
+*  Active **open-source contributor** in applied AI tooling
+*  Interested in automation, intelligent workflows, and AI products
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamalganth-s-794454245" target="_blank">
@@ -43,9 +43,9 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 🧠 AI & Machine Learning
+###  AI & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
@@ -59,14 +59,14 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-### 💻 Programming
+###  Programming
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,streamlit,mongodb" />
 </p>
@@ -79,7 +79,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-### ☁️ DevOps & Tools
+###  DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
@@ -89,7 +89,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Adaptive CEO Avatar System (Gen-AI MVP)
 **Tech:** Python, LLMs, Streamlit, HeyGen API  
@@ -117,7 +117,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-## 🌍 Open-Source Work
+##  Open-Source Work
 
 - Contributing to **AI automation & speech-to-text systems**
 - Integrated **OpenAI Whisper transcription** into real frameworks
@@ -125,7 +125,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 * 🥇 **1st Place** – Ignite Innovations 2.0  
 * 🏅 **Reva Hackathon** – Cleared 2 rounds (50+ teams)  
@@ -138,7 +138,7 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-## 🔥 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalGanth&theme=react-dark&hide_border=true" />
@@ -146,4 +146,4 @@ My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intell
 
 ---
 
-⭐ *Open to internships, research roles, and AI engineering opportunities where I can build impactful, real-world AI systems.*
+ *Open to internships, research roles, and AI engineering opportunities where I can build impactful, real-world AI systems.*
