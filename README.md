@@ -1,116 +1,149 @@
-# Hi, I'm Kamalganth S
+<h1 align="center">Hi, I'm <strong>Kamalganth S</strong> 👋</h1>
 
- **AI & Generative AI Engineer** |  **Agentic AI • NLP • RAG Systems** |  **Open-Source Contributor**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Undergraduate;AI+%26+Generative+AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLMs;Applied+NLP+%26+Intelligent+Systems;Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
+</p>
 
-I’m a B.Tech AI & Data Science student passionate about building **production-ready AI systems** that combine **LLMs, agentic workflows, and real-world intelligence**. I actively contribute to **open-source AI projects** and focus on turning research ideas into scalable solutions.
+<p align="center">
+  <strong>🚀 AI & Gen-AI Engineer | Agentic AI | NLP | Open-Source Contributor</strong>
+</p>
 
----
-
-##  What I Do
-
-- Build **Generative AI & Agentic AI systems** using LLMs
-- Design **RAG pipelines** with vector databases & knowledge graphs
-- Develop **end-to-end AI products** with clean APIs and UIs
-- Work on **open-source AI tools** used in real environments
-- Focus on **explainability, accuracy, and automation**
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding Animation" />
+</p>
 
 ---
 
-##  Technical Expertise
+## 🧠 About Me
 
-**Languages**  
-- Python, Java  
+I’m **Kamalganth S**, a **B.Tech AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, focused on building **real-world, scalable, and explainable AI systems**.
 
-**AI / ML Domains**  
-- Generative AI  
-- NLP  
-- Agentic AI  
-- Deep Learning  
-- Machine Learning  
+My work lies at the intersection of **Generative AI, Agentic AI, NLP, and intelligent system design**, with strong emphasis on **end-to-end implementation** — from model reasoning to deployment.
 
-**Frameworks & Tools**  
-- LangChain, Hugging Face  
-- FAISS, Neo4j(intro)  
-- TensorFlow / PyTorch  
-- FastAPI, Streamlit  
-- Docker  
-
-**Data & Databases**  
-- SQL  
-- Pandas, NumPy  
+* 🔭 Building **agentic AI assistants & RAG-based systems**
+* 🧠 Working with **LLMs, knowledge graphs, and verification layers**
+* 🌍 Active **open-source contributor** in applied AI tooling
+* ⚡ Interested in automation, intelligent workflows, and AI products
 
 ---
 
-## 🧪 Featured Projects
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamalganth-s-794454245" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:kamalganths2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/KamalGanth" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### 🧠 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+* Machine Learning & Deep Learning  
+* Generative AI & Large Language Models (LLMs)  
+* Agentic AI & Multi-Agent Systems  
+* NLP, Embeddings, Semantic Search  
+* RAG (Retrieval-Augmented Generation)  
+* Explainable AI & Model Verification  
+
+---
+
+### 💻 Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,mongodb" />
+</p>
+
+* LangChain, Hugging Face  
+* FAISS, Neo4j (Knowledge Graphs)  
+* FastAPI, Streamlit  
+* Scikit-learn, Pandas, NumPy  
+* OpenAI APIs  
+
+---
+
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+* Docker, Git, GitHub  
+* API Integration & Deployment  
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 Adaptive CEO Avatar System (Gen-AI MVP)
 **Tech:** Python, LLMs, Streamlit, HeyGen API  
-- Built an end-to-end Gen-AI system that converts business context into **realistic executive avatar videos**
-- Integrated LLM-based script generation with **text-to-video synthesis**
-- Designed a **scalable, modular backend** with async video generation
+- Built an end-to-end **Gen-AI system** converting business context into **realistic executive avatar videos**
+- Integrated **LLM-based script generation** with text-to-video synthesis
+- Designed a **scalable and modular architecture**
 
-🔗 Repo: https://github.com/KamalGanth/CEO-Avatar
+🔗 https://github.com/KamalGanth/CEO-Avatar
 
 ---
 
 ### 🔹 IntelliAgent – Multi-Domain Adaptive AI Assistant
-**Tech:** LangChain, FAISS, Neo4j, FastAPI, Hugging Face  
-- Designed a **research-grade multi-agent AI system**
-- Implemented **RAG, knowledge-graph reasoning, and intent verification**
-- Delivered **explainable and high-accuracy outputs** across domains
+**Tech:** LangChain, FAISS, Neo4j, FastAPI  
+- Designed a **research-grade agentic AI system**
+- Implemented **RAG, intent classification, and verification layers**
+- Delivered **explainable, high-accuracy multi-domain reasoning**
 
 ---
 
 ### 🔹 AI-Powered Quarry Management System
 **Tech:** Python, Streamlit, Scikit-learn  
-- Built an AI system for **predictive maintenance & production forecasting**
-- Enabled **worker productivity analytics and safety alerts**
-- Integrated a **smart chatbot** for operational queries
+- Built AI models for **predictive maintenance & production forecasting**
+- Added **worker productivity analytics & safety alerts**
+- Integrated an **AI chatbot for operational intelligence**
 
 ---
 
-##  Open-Source Contributions
+## 🌍 Open-Source Work
 
-- Contributing to **AI automation and speech-to-text tooling**
+- Contributing to **AI automation & speech-to-text systems**
 - Integrated **OpenAI Whisper transcription** into real frameworks
 - Focused on **clean architecture, documentation, and reliability**
 
 ---
 
-##  Education
+## 🏆 Achievements
 
-**B.Tech – Artificial Intelligence & Data Science**  
-Sri Eshwar College of Engineering 
-CGPA: **7.89**
-
----
-
-##  Achievements
-
--  **1st Place** – Ignite Innovations 2.0  
--  **Reva Hackathon** – Cleared 2 rounds (50+ teams)  
--  **Project Expo** – SECE  
+* 🥇 **1st Place** – Ignite Innovations 2.0  
+* 🏅 **Reva Hackathon** – Cleared 2 rounds (50+ teams)  
+* 🥉 **Project Expo** – SECE  
 
 **Problem Solving:**  
 - LeetCode: 40+ problems  
 - CodeChef: 50+ problems  
-- HackerRank: Python (Gold), Java (Gold), SQL (Silver) {Profile : https://www.hackerrank.com/profile/kamalganth_s2021 }
+- HackerRank: Silver (Python)
 
 ---
 
-##  Certifications
+## 🔥 GitHub Activity
 
-- Supervised Machine Learning – Coursera  
-- Crash Course on Python – Google  
-- Mastering Data Structures (C/C++) – Udemy  
-- C Programming from Scratch – Udemy  
-
----
-
-##  Let’s Connect
-
-- GitHub: https://github.com/KamalGanth  
-- LinkedIn: https://www.linkedin.com/in/kamalganth-s-794454245  
-- Email: kamalganths2004@gmail.com  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalGanth&theme=react-dark&hide_border=true" />
+</p>
 
 ---
+
+⭐ *Open to internships, research roles, and AI engineering opportunities where I can build impactful, real-world AI systems.*
